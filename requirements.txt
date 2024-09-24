@@ -1,0 +1,7 @@
+sentence_transformers==2.2.2
+langchain_community
+langchain-groq
+python-dotenv
+faiss-cpu
+streamlit
+pypdf
