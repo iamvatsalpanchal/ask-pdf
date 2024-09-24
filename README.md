@@ -13,6 +13,9 @@ It provides concise answers based on the PDF's contents.
 This application allows you to upload PDF documents and create a knowledge base or vector store from them. 
 You can then ask questions based on the content of the PDFs, and the app will provide concise answers using a Retrieval-Augmented Generation (RAG) model.
 
+### 📸 Screenshots
+[]()
+
 ### How it Works
 1. **Upload PDF**: Upload your PDF document using the uploader in the main section.
 2. **Create Knowledge Base or Vector Store**: Click the 'Create Knowledge Base' button to process the PDF and store its contents as embeddings.
