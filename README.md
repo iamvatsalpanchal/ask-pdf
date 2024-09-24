@@ -14,8 +14,9 @@ This application allows you to upload PDF documents and create a knowledge base 
 You can then ask questions based on the content of the PDFs, and the app will provide concise answers using a Retrieval-Augmented Generation (RAG) model.
 
 ### 📸 Screenshots
-[Embeddings Computation Completion](https://github.com/iamvatsalpanchal/ask-pdf/blob/main/2.PNG)
-[Embeddings Loaded Successfully](https://github.com/iamvatsalpanchal/ask-pdf/blob/main/1.PNG)
+![Embeddings Computation Completion](https://github.com/iamvatsalpanchal/ask-pdf/blob/main/2.PNG)
+
+![Embeddings Loaded Successfully](https://github.com/iamvatsalpanchal/ask-pdf/blob/main/1.PNG)
 
 
 ### How it Works
