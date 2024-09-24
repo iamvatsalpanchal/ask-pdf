@@ -30,22 +30,14 @@ Ensure you have the following environment variable configured in your .env file:
 GROQ_API_KEY: Your Groq API key for accessing the language model.
 
 ### 📦 Dependencies
-Python 3.7+
-Streamlit
-FAISS
-LangChain
-HuggingFace Instruct Embeddings
-PyPDF2
-Groq AI
-Other dependencies as listed in requirements.txt
-
-
-### 📚 Learn More
-- Streamlit Documentation 📖
-- LangChain Documentation 📘
-- FAISS Documentation 🗂️
-- HuggingFace Documentation 🤗
-- Groq AI Documentation 🧠
+- Python 3.7+
+- Streamlit 📖
+- FAISS 🗂️
+- LangChain 📘
+- HuggingFace Instruct Embeddings 🤗
+- PyPDF2
+- Groq API 🧠
+-- Other dependencies as listed in requirements.txt
 
 ### 📧 Contact
 For any issues or feature requests, feel free to contact us at vatsalpanchal4488@gmail.com or call at 94275-16765.
